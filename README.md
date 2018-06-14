@@ -62,6 +62,7 @@ In Flask using werkzeug's
 generate_password_hash(raw_password, method=.., salt_length=..)
 ```
 
+
 With Flask-Passlib
 
 ```python
